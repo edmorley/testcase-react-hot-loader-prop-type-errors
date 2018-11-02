@@ -1,0 +1,20 @@
+{
+  "name": "testcase-react-hot-loader-prop-type-errors",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "dependencies": {
+    "prop-types": "^15",
+    "react": "^16",
+    "react-dom": "^16",
+    "react-hot-loader": "^4"
+  },
+  "devDependencies": {
+    "@neutrinojs/react": "^9.0.0-beta.1",
+    "neutrino": "^9.0.0-beta.1",
+    "webpack": "^4",
+    "webpack-cli": "^3",
+    "webpack-dev-server": "^3"
+  }
+}
